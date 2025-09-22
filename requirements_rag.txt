@@ -1,0 +1,10 @@
+pinecone
+sentence-transformers
+transformers
+torch
+streamlit
+prometheus-client
+python-dotenv
+flask
+twilio
+rapidfuzz
